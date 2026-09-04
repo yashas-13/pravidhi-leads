@@ -1,0 +1,97 @@
+# Govt & Org RFPs — Verified IT Buyers (2026-09-04)
+
+> Highest quality leads: real budget, real deadline, named contact.
+
+**Rows:** 9  
+
+## 1. Grand Isle VT
+
+**What:** Govt IT Services RFP  
+**Contact:** Submit your proposal package via email to Sara Santor at  sbadministrator@grandislevt.gov  
+**Email:** `sbadministrator@grandislevt.gov`  
+**Deadline:** 2026-10-16  
+**RFP PDF:** [https://grandislevt.org/wp-content/uploads/2026/09/RFP_-IT_S](https://grandislevt.org/wp-content/uploads/2026/09/RFP_-IT_Services_Town_of_Grand_Isle.pdf)  
+
+---
+
+## 2. City of Peosta IA
+
+**What:** Managed IT Services RFP  
+**Contact:** 7896 Burds Road Peosta, Iowa 52068 PHONE: 563-556-8755, Ext. 100 E-MAIL: aekhoff@cityofpeosta.org  
+**Email:** `aekhoff@cityofpeosta.org`  
+**Phone:** `563-556-8755`  
+**Deadline:** —  
+**RFP PDF:** [https://www.cityofpeosta.org/uploads/documents/IT_Services_R](https://www.cityofpeosta.org/uploads/documents/IT_Services_RFP.pdf)  
+
+---
+
+## 3. CLASP
+
+**What:** Technology Services RFP  
+**Contact:** Proposals must be submitted electronically to Kaneisha Hall, Human Resources Manager, khall@clasp.org no later than August 31, 2026, 4pm. Questions re  
+**Email:** `khall@clasp.org`  
+**Phone:** `2026 1310, (202) 906-8000`  
+**Deadline:** —  
+**RFP PDF:** [https://www.clasp.org/wp-content/uploads/2026/08/CLASP-IT-RF](https://www.clasp.org/wp-content/uploads/2026/08/CLASP-IT-RFP-2026-Final.pdf)  
+
+---
+
+## 4. CAP St Joseph
+
+**What:** Contractual IT Managed Services  
+**Contact:** Contact Name: Megan Davis  
+**Email:** `mdavis@capstjoe.org`  
+**Deadline:** —  
+**RFP PDF:** [https://www.capstjoe.org/wp-content/uploads/2026/02/IT-Servi](https://www.capstjoe.org/wp-content/uploads/2026/02/IT-Service-RFP.pdf)  
+
+---
+
+## 5. Indiana Afterschool
+
+**What:** Managed IT Services  
+**Phone:** `317-822-8211`  
+**Deadline:** —  
+**RFP PDF:** [https://www.indianaafterschool.org/wp-content/uploads/2025/0](https://www.indianaafterschool.org/wp-content/uploads/2025/03/Managed-IT-Services-RFP.pdf)  
+
+---
+
+## 6. Wlfea
+
+**What:** IT Services RFP  
+**Contact:** The Administration Department of WLFEA will issue the Request for Proposals documents and that office shall be the sole point of contact. Please conta  
+**Email:** `trish@wlfea.org`  
+**Phone:** `82683268796, 541.997.3212`  
+**Deadline:** —  
+**RFP PDF:** [https://www.wlfea.org/wp-content/uploads/2025/03/2025-IT-Ser](https://www.wlfea.org/wp-content/uploads/2025/03/2025-IT-Services-RFP.pdf)  
+
+---
+
+## 7. CAG India
+
+**What:** AMC IT Assets  
+**Phone:** `9839-20281425, 0657670`  
+**Deadline:** —  
+**RFP PDF:** [https://cag.gov.in/uploads/tenders/tenders-AMC-for-IT-Assets](https://cag.gov.in/uploads/tenders/tenders-AMC-for-IT-Assets-0657670c1be9839-202814256.pdf)  
+
+---
+
+## 8. Business IT Support | 24/7 IT
+
+**What:** Business IT Support | 24/7 IT Support Services  
+**Email:** `info@cloudtech24.com`  
+**Phone:** `207 099 0740, +44 20 7099 0740, 157272520720714, 1483 608388`  
+**Deadline:** —  
+**RFP PDF:** [https://duckduckgo.com/y.js?ad_domain=cloudtech24.com&ad_pro](https://duckduckgo.com/y.js?ad_domain=cloudtech24.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=J5miauLx1YUTcuLVlms3asZLi_kHDIpV3txc1xllvOLe0Vxye18HkjCmKqTv79lY82K2Int4a9PYZWc0lAp%2DVovK5kN_CQtqJCUUqoytvQ5xhQev2twyes1RLhVlU9_wM9D9yapy7Di94slJWxCC9s_W8yhZVSJV1mvlHkaZTFE.rGinMq5LQSMDf7CagV7VOQ&rut=ac2223d0529e652606c5cdecb53196ad188851406752f009d3cab6c912f56805&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8_WCHR85YR%2DyI0tnRFLdqGjVUCUzKybmRkzLI%2DIpBl%2DmbIcXBsu%2Dx5JHd8syJs_ZDxzb5JmABJ1ke3waQfPhXSq44sTMO7wHqCBrZAL8B7QsRmR63AwWMHkwqLhNNJXxaNOxJ2EtloQvjbZObBpAlwJCnP8oK88ItxQBE3GwJ51762hxxtcPtlnR%2Da7b0ivo5QdXi2b3d8KWaE9KIDqiv_tqiFTU%26u%3DaHR0cHMlM2ElMmYlMmZjbG91ZHRlY2gyNC5jb20lMmZidXNpbmVzcy1pdC1zdXBwb3J0JTJmJTNmdXRtX3Rlcm0lM2RpdCUyNTIwc2VydmljZXMlMjZ1dG1fY2FtcGFpZ24lM2RTZWFyY2glMmIlMjU3QyUyYklUJTJiU3VwcG9ydCUyYiUyNTdDJTJiR0VPJTJiKE1MKSUyNnV0bV9zb3VyY2UlM2RtaWNyb3NvZnRhZHMlMjZ1dG1fbWVkaXVtJTNkcHBjJTI2aHNhX2FjYyUzZDMxMjk1MzA1OTklMjZoc2FfY2FtJTNkMjM1MzE4MTA1NTclMjZoc2FfZ3JwJTNkMTE4MTk3NzI2MjM4Nzk5MyUyNmhzYV9hZCUzZCUyNmhzYV9zcmMlM2RzJTI2aHNhX3RndCUzZGt3ZC03Mzg3NDIwMzU3NzI2NSUyNmhzYV9rdyUzZGl0JTI1MjBzZXJ2aWNlcyUyNmhzYV9tdCUzZHAlMjZoc2FfbmV0JTNkbWljcm9zb2Z0YWRzJTI2aHNhX3ZlciUzZDMlMjZtc2Nsa2lkJTNkNTU1ZTU5NGZhY2E4MTM4NGM1ZTgzM2Q1ZGIwMTc2OTE%26rlid%3D555e594faca81384c5e833d5db017691&vqd=4-91944939881909568094047167969348468439&iurl=%7B1%7DIG%3DFE711AC8BDDB4FD192F6DE5980DAA490%26CID%3D35C037933871661C09512059391367E0%26ID%3DDevEx%2C5038.1)  
+
+---
+
+## 9. Small Business IT Support: Opt
+
+**What:** Small Business IT Support: Options, Costs &amp; How to Choose | Homebase  
+**Email:** `support@joinhomebase.com`  
+**Phone:** `9544665, 67799380, +14159513830, 31536000, 31772814`  
+**Deadline:** —  
+**RFP PDF:** [https://www.joinhomebase.com/blog/small-business-it-support](https://www.joinhomebase.com/blog/small-business-it-support)  
+
+---
+

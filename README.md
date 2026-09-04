@@ -19,21 +19,30 @@ cat raw/FREE_BUYERS.csv | wc -l   # 206 total
 
 ## Directory Structure
 
+Every CSV has a matching `.md` file — read on GitHub or any editor without opening a spreadsheet.
+
 ```
 pravidhi-leads/
 ├── README.md                  ← you are here
-├── raw/                       ← unfiltered scraper outputs
+├── raw/                       ← unfiltered scraper outputs + readable .md views
+│   ├── README.md              ← overview table of all raw files
 │   ├── FREE_BUYERS.csv        ← 206 leads (HN + Remotive + Arbeitnow + USAspending + DDG)
-│   ├── stealth_buyers.csv     ← 106 leads (DDG lite + HN + Remotive)
-│   ├── all_buyers_final.csv   ← 64 leads (HN + USAspending + Remotive)
-│   ├── BUYERS_CLEAN.csv       ← 23 buyer-intent HN posts (filtered)
-│   ├── buyers_hot2.csv        ← 36 leads from intermediate runs
-│   └── dork_leads*.csv        ← IndiaMART/JustDial provider listings (noisy)
-├── processed/                 ← cleaned & enriched
-│   └── FREE_BUYERS_CLEAN.csv  ← 164 buyer leads (buyer intent + govt + hiring)
+│   ├── FREE_BUYERS.md         ← readable version
+│   ├── stealth_buyers.csv/.md ← 106 leads (DDG lite + HN + Remotive)
+│   ├── all_buyers_final.csv/.md ← 64 leads (HN + USAspending + Remotive)
+│   ├── BUYERS_CLEAN.csv/.md   ← 23 buyer-intent HN posts (filtered)
+│   ├── buyers_hot2.csv/.md    ← 36 leads from intermediate runs
+│   └── dork_leads*.csv/.md    ← IndiaMART/JustDial provider listings (noisy)
+├── processed/                 ← cleaned & enriched (segmented .md views)
+│   ├── FREE_BUYERS_CLEAN.csv  ← 164 buyer leads (buyer intent + govt + hiring)
+│   ├── FREE_BUYERS_CLEAN.md   ← index: links to all segments
+│   ├── FREE_BUYERS_CLEAN-buyers.md   ← 95 buyer-intent leads
+│   ├── FREE_BUYERS_CLEAN-govt.md     ← 29 govt/tender leads
+│   └── FREE_BUYERS_CLEAN-hiring.md   ← 40 hiring=outsourcing leads
 ├── govt-rfp/                  ← government RFPs (verified real buyers)
 │   ├── HOT_BUYER_RFPS.csv     ← 9 RFPs with emails + phones
-│   └── HOT_BUYER_RFPS.jsonl
+│   ├── HOT_BUYER_RFPS.jsonl
+│   └── HOT_BUYER_RFPS.md      ← card-style readable RFPs
 └── internal-scripts/          ← scraper code (for reruns)
     ├── free_harvest.py        ← main scraper (DDG lite + APIs) — RUN THIS
     ├── stealth_leads.py       ← DDG lite + real page fetch
@@ -90,15 +99,16 @@ python3 free_harvest.py   # main harvest — takes ~3 min, outputs FREE_BUYERS.c
 
 ## Coverage (as of 2026-09-04)
 
-| Metric | Count |
-|---|---|
-| Total leads (raw) | 206 |
-| Buyer intent (filtered) | 115 |
-| Govt RFPs (active) | 29 |
-| Companies hiring IT (= outsourcing) | 20 |
-| Leads with verified email | 13 |
-| Leads with phone | 77 |
-| Govt contacts (email + phone) | 9 |
+| Metric | Count | Read now |
+|---|---|---|
+| Total leads (raw) | 206 | [`raw/FREE_BUYERS.md`](raw/FREE_BUYERS.md) |
+| Buyer intent (filtered) | 95 | [`processed/FREE_BUYERS_CLEAN-buyers.md`](processed/FREE_BUYERS_CLEAN-buyers.md) |
+| Govt RFPs (active) | 29 | [`processed/FREE_BUYERS_CLEAN-govt.md`](processed/FREE_BUYERS_CLEAN-govt.md) |
+| Companies hiring IT (= outsourcing) | 40 | [`processed/FREE_BUYERS_CLEAN-hiring.md`](processed/FREE_BUYERS_CLEAN-hiring.md) |
+| Verified govt RFPs w/ contact | 9 | [`govt-rfp/HOT_BUYER_RFPS.md`](govt-rfp/HOT_BUYER_RFPS.md) |
+| Leads with verified email | 13 | search in any `.md` |
+| Leads with phone | 77 | search in any `.md` |
+
 
 ## Rerun Instructions
 
