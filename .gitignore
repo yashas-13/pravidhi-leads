@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Logs (keep newest, version-control the rest)
+*.log
+stealth.log
+free_harvest.log
+hot_rfps.log
+
+# Keep all CSV/JSONL tracked (lead data IS the product)
+!*.csv
+!*.jsonl
+
+# Local secrets (never commit)
+.env
+creds.json
+apollo_*.json
